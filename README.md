@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi 👋, I'm Bekzod (aka Beckzodiy)
 
 <p align="left">
@@ -39,7 +38,7 @@ I’m a **Full-stack Developer** and content creator living at the intersection 
 ### 📈 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beckzodiy&show_icons=true&theme=tokyonight" alt="Bekzod's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=beckzodiy&show_icons=true&theme=tokyonight" alt="Bekzod's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckzodiy&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
